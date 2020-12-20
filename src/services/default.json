@@ -1,0 +1,4 @@
+{
+  "jwt-secret": "123secret",
+  "auth-active": true
+}
